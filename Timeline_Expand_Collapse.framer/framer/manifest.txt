@@ -1,0 +1,99 @@
+app.coffee
+framer/backups/backup-2016-07-17 13.53.18.coffee
+framer/backups/backup-2016-07-17 13.55.18.coffee
+framer/backups/backup-2016-07-17 13.56.18.coffee
+framer/backups/backup-2016-07-17 13.57.18.coffee
+framer/backups/backup-2016-07-17 16.04.18.coffee
+framer/backups/backup-2016-07-17 16.05.18.coffee
+framer/backups/backup-2016-07-17 16.07.18.coffee
+framer/backups/backup-2016-07-17 18.54.08.coffee
+framer/backups/backup-2016-07-17 19.02.06.coffee
+framer/backups/backup-2016-07-17 19.03.06.coffee
+framer/backups/backup-2016-07-17 19.04.06.coffee
+framer/backups/backup-2016-07-17 19.05.06.coffee
+framer/backups/backup-2016-07-17 19.06.06.coffee
+framer/backups/backup-2016-07-17 19.07.06.coffee
+framer/backups/backup-2016-07-17 19.10.06.coffee
+framer/backups/backup-2016-07-17 19.12.08.coffee
+framer/backups/backup-2016-07-17 19.13.08.coffee
+framer/backups/backup-2016-07-17 19.38.07.coffee
+framer/backups/backup-2016-07-17 19.39.07.coffee
+framer/backups/backup-2016-07-26 12.32.13.coffee
+framer/backups/backup-2016-07-27 13.27.11.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/background.png
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/images/icon-arrow.png
+framer/images/icon-arrow@2x.png
+framer/images/icon-close.png
+framer/images/icon-close@2x.png
+framer/images/icon-framer.png
+framer/images/icon-framer@2x.png
+framer/images/icon-share.png
+framer/images/icon-share@2x.png
+framer/manifest.txt
+framer/mirror.css
+framer/style.css
+framer/version
+imported/PRX_Final_Framer@1x/images/Layer-Approve_Pitch_List-ruu1meq1.png
+imported/PRX_Final_Framer@1x/images/Layer-Campaign_Name-mdqzqjix.png
+imported/PRX_Final_Framer@1x/images/Layer-CREATE_STORY-rtlenjjc.png
+imported/PRX_Final_Framer@1x/images/Layer-EVALUATE_-mufgnte1.png
+imported/PRX_Final_Framer@1x/images/Layer-Group-reu3mzk2.png
+imported/PRX_Final_Framer@1x/images/Layer-Group_12-mde1oeq2.png
+imported/PRX_Final_Framer@1x/images/Layer-Group_2-rtcxqjrg.png
+imported/PRX_Final_Framer@1x/images/Layer-Group_3-m0ngnzhd.png
+imported/PRX_Final_Framer@1x/images/Layer-Group_3-rjqyqui0.png
+imported/PRX_Final_Framer@1x/images/Layer-Group_4-qky1odyw.png
+imported/PRX_Final_Framer@1x/images/Layer-Group_7-oti4otu0.png
+imported/PRX_Final_Framer@1x/images/Layer-Hide_Timeline-nthbrkjg.png
+imported/PRX_Final_Framer@1x/images/Layer-Hide_Timeline-odc5nuyz.png
+imported/PRX_Final_Framer@1x/images/Layer-Intercom-nzldquq1.png
+imported/PRX_Final_Framer@1x/images/Layer-Line-njlcqjgw.png
+imported/PRX_Final_Framer@1x/images/Layer-Page_Content-mee4meve.png
+imported/PRX_Final_Framer@1x/images/Layer-PITCH_STORY-ntmzrkix.png
+imported/PRX_Final_Framer@1x/images/Layer-Pitching__Follow_Ups__Interviews-rki4rdhe.png
+imported/PRX_Final_Framer@1x/images/Layer-Prepare_Pitch-mdi4qzm0.png
+imported/PRX_Final_Framer@1x/images/Layer-PRX_NavBar-qky3mkng.png
+imported/PRX_Final_Framer@1x/images/Layer-Targeting_Requirements-mjaxmdgz.png
+imported/PRX_Final_Framer@1x/images/Layer-Timeline-oey4ouzc.png
+imported/PRX_Final_Framer@1x/images/Layer-userpic-qtlbq0q5.png
+imported/PRX_Final_Framer@1x/images/Layer-View_Timeline-qta0qtjf.png
+imported/PRX_Final_Framer@1x/images/Layer-woman-qzngrkey.png
+imported/PRX_Final_Framer@1x/layers.json
+imported/PRX_Final_Framer@1x/layers.json.js
+imported/StrollHealth Style Guide@1x/images/Layer-Colors_-_Gradient-muvgmjbc.png
+imported/StrollHealth Style Guide@1x/images/Layer-Group-mdmzqtlf.png
+imported/StrollHealth Style Guide@1x/images/Layer-Group-mkrgrjmz.png
+imported/StrollHealth Style Guide@1x/images/Layer-Group-nzy1qtrg.png
+imported/StrollHealth Style Guide@1x/images/Layer-Group-que0nevc.png
+imported/StrollHealth Style Guide@1x/images/Layer-Group-rkrbquy0.png
+imported/StrollHealth Style Guide@1x/images/Layer-Group_2-m0y2ntrb.png
+imported/StrollHealth Style Guide@1x/images/Layer-Group_2-nki4njq3.png
+imported/StrollHealth Style Guide@1x/images/Layer-Group_2-rdrfntc3.png
+imported/StrollHealth Style Guide@1x/images/Layer-Group_3-mzg1nkiy.png
+imported/StrollHealth Style Guide@1x/images/Layer-Group_3-ndlbmeng.png
+imported/StrollHealth Style Guide@1x/images/Layer-Group_3-njvcndcy.png
+imported/StrollHealth Style Guide@1x/images/Layer-Group_3-oem1rung.png
+imported/StrollHealth Style Guide@1x/images/Layer-Group_4-rdhfotq4.png
+imported/StrollHealth Style Guide@1x/images/Layer-Typography-mueym0m3.png
+imported/StrollHealth Style Guide@1x/images/Layer-Typography_-_Solid_Background-mtaxrte3.png
+imported/StrollHealth Style Guide@1x/images/Layer-Typography_-_Solid_Background-rjbfmurb.png
+imported/StrollHealth Style Guide@1x/layers.json
+imported/StrollHealth Style Guide@1x/layers.json.js
+index.html
+modules/myModule.coffee
